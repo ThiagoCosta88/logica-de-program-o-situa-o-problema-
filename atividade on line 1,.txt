@@ -1,0 +1,19 @@
+inicio 
+data do evento 
+informar data do evento 
+data do evento é posterior ao dia de hoje 
+se sim permitir cadastro 
+se não informar q cadastro não pode ser feito poi a data ja passou 
+se o cadastro for aprovado perguntar a idade
+ idade maior que 18 anos
+se sim permitir cadastro 
+se não cadastro negado menor de idade 
+se cadastro for aprovado 
+perguntar participante ou palestrante
+se palestrante finaliza cadastro 
+entra pra listra palestrante 
+se participante 
+lista de participantes menor q 100
+se sim finalizar cadastro 
+entrar na lista 
+se não impossivel finalizar cadastro lista cheia 
