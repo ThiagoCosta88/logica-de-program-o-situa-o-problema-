@@ -1,0 +1,13 @@
+peça pesa > 100g
+se sim pode cadastrar 
+se nao nao permitir cadastro
+capacidade da caixa igual a 10
+se quantidade > 10 mensagem q caixa nao tem capacidade 
+se nao quantidade < 10 permitir 
+nome da peça tem menos de 3 caracteres 
+se sim informar mensagem de erro
+se nao proceguir com o cadastro 
+
+var peça = 100g
+var quantidade = 10
+var caracteres = 3
